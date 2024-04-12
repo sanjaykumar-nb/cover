@@ -159,7 +159,7 @@ book.html
 ```
 
 ## OUTPUT:
-![alt text](<../Desktop/paaa/Screenshot 2024-04-12 062636.png>)
+![alt text](<coverproject/coverapp/static/Screenshot 2024-04-12 062636.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
